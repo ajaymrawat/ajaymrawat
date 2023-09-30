@@ -1,7 +1,7 @@
 ### Hi there 👋
- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...\
 
-    1. Implementatino of OPENMP in reaction dynamics code.
+    1. Implementatino of OPENMP in reaction dynamics code.\
     
     2. Fitting 3D potential energy surface (PES) using Neural network.
 <!--
