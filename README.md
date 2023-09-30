@@ -20,6 +20,7 @@ The tools I have used:
 * _TensorFlow + Keras (to write simple Feed forward neural network)_
 * _Jupyter Notebook_
 * _MATLAB (for building and training neural network)_
+* _LaTex_
 
 
 
