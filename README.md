@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=aguyfromshivalik&color=yellow)  <!--  to get the profile view counter. -->
+![](https://komarev.com/ghpvc/?username=aguyfromshivalik&color=yellow&style=for-the-badge) <!--  to get the profile view counter. -->
 
 Hey! I am Ajay, a PhD student in University of Hyderabad. </br>
 I am trained in theoretical chemistry (No! I am not that regular white lab coat chemistry guy). </br>
