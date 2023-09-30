@@ -5,12 +5,11 @@ I am trained in theoretical chemistry (No! I am not that regular white lab coat 
 I code, read anything (not everything 😉) interesting, and try to experience life.</br>
 I get excited when I learn something new, read something interesting, or debug my code.</br>
 
-I am ....
-   - 👷‍♂️ **Currently working on:** </br>
+   - 👷‍♂️ **What I am working on?** </br>
      * _Implementation of OpenMP in reaction dynamics code._
      * _Fitting 3D potential energy surface (PES) using Neural network._
        
-   - 📖 **Currently reading**:
+   - 📖 **What I am reading?**
       * _Crime and Punishment by Fyodor Dostoevsky_
 
 The tools I have used:
