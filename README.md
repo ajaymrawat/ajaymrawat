@@ -14,9 +14,8 @@ I get excited when I learn something new, read something interesting, or debug m
 
 The tools I have used:
 * _Fortran (for scientific programming)_
-* _OpenMPI_
-* _Bash shell scripting (mostly for automatization)_
-* _Python (mostly as a side language to help with data)_
+*  _Python (mostly as a side language to help with data)_
+*  _Bash shell scripting (mostly for automatization)_
 * _TensorFlow + Keras (to write simple Feed forward neural network)_
 * _Jupyter Notebook_
 * _MATLAB (for building and training neural network)_
