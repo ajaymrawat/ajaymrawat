@@ -10,7 +10,7 @@ I get excited when I learn something new, read something interesting, or debug m
      * _Fitting 3D potential energy surface (PES) using Neural network._
        
    - 📖 **What I am reading?**
-      * _Crime and Punishment by Fyodor Dostoevsky_
+      * _War and Peace by Leo Tolstoy_
 
 The tools I have used:
 * _Fortran (for scientific programming)_
