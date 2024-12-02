@@ -9,7 +9,7 @@ I get excited when I learn something new, read something interesting, or debug m
      * _Implementation of OpenMP in reaction dynamics code._
        
    - 📖 **What am I reading?**
-     * _Siddhartha by Hermann Hese_
+     * _War and Peace_ by Leo Tolstoy
 
 🧰 The tools I have used:
 * _Fortran (for scientific programming)_
